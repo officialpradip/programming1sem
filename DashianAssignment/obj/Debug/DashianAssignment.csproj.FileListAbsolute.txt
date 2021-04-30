@@ -1,0 +1,56 @@
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.csprojAssemblyReference.cache
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Form1.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Properties.Resources.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.csproj.GenerateResource.cache
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.csproj.CoreCompileInputs.cache
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Category.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.ChangeRate.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Damage.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.DamageDetail.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Items.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.LoginForm.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Point_Of_Sale.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Purchase.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Sales_Details.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Suppliers.resources
+F:\c#.net project\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.User.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Category.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.ChangeRate.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Damage.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.DamageDetail.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Items.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.LoginForm.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Point_Of_Sale.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Properties.Resources.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Purchase.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Sales_Details.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Suppliers.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.User.resources
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.csproj.GenerateResource.cache
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.csproj.CoreCompileInputs.cache
+E:\programming visual studio\DashianAssignment\DashianAssignment\bin\Debug\DashianAssignment.exe.config
+E:\programming visual studio\DashianAssignment\DashianAssignment\bin\Debug\DashianAssignment.exe
+E:\programming visual studio\DashianAssignment\DashianAssignment\bin\Debug\DashianAssignment.pdb
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.exe
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.pdb
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\bin\Debug\DashianAssignment.exe.config
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\bin\Debug\DashianAssignment.exe
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\bin\Debug\DashianAssignment.pdb
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Category.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.ChangeRate.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Damage.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.DamageDetail.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Items.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.LoginForm.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Point_Of_Sale.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Properties.Resources.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Purchase.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Sales_Details.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.Suppliers.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.User.resources
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.exe
+C:\Users\Acer\Desktop\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.pdb
+E:\programming visual studio\DashianAssignment\DashianAssignment\obj\Debug\DashianAssignment.csprojAssemblyReference.cache
